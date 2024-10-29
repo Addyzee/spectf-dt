@@ -17,12 +17,12 @@ The goal is to apply decision tree algorithms to the SPECTF dataset and analyze 
 
 
 3. **Visualization**:
-    - Visualize the learning curve for the different classifiers
-    - ![Learning curve for the different classifiers](spectf-lc.png)
-    - Visualize the decision tree for the best classifier
-    - ![Decision tree for the best classifier](spectf-dt2.png)
-    - Confusion matrix for the best classifier
-    - ![Confusion matrix for the best classifier](spectf-cm.png)
+    - Visualize the learning curve for the different classifiers<br>
+    ![Learning curve for the different classifiers](spectf-lc.png)
+    - Visualize the decision tree for the best classifier<br>
+    ![Decision tree for the best classifier](spectf-dt2.png)
+    - Confusion matrix for the best classifier<br>
+    ![Confusion matrix for the best classifier](spectf-cm.png)
 
 ## Files
 
