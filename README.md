@@ -31,7 +31,7 @@ The goal is to apply decision tree algorithms to the SPECTF dataset and analyze 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10
 - Libraries: scikit-learn, pandas, matplotlib, ipykernel
 
 ## Usage
