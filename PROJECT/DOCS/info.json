@@ -1,0 +1,29 @@
+{
+    "project_name": "SPECTF Heart Dataset Analysis Documentation",
+    "year": 2024,
+    "status": "Complete",
+    "keywords": [
+        "Machine Learning",
+        "Decision Trees",
+        "Cross Validation",
+        "Medical Diagnosis",
+        "SPECT Imaging",
+        "Heart Disease",
+        "Classification",
+        "Model Evaluation",
+        "Learning Curves",
+        "Hyperparameter Optimization"
+    ],
+    "languages/tools": [
+        "Python",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "matplotlib",
+        "seaborn",
+        "Jupyter Notebook"
+    ],
+    "contributors": [
+        "Me"
+    ]
+}
