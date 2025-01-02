@@ -2,6 +2,7 @@
 
 ## Overview
 This project implements and analyzes Decision Tree Classifiers on the SPECTF heart dataset. The main goal is to evaluate different decision tree configurations and their performance in diagnosing cardiac abnormalities based on Single Proton Emission Computed Tomography (SPECT) images.
+![Decision tree](/spectf-dt2.png)
 
 ## Dataset
 - **Source**: SPECTF Heart Dataset
